@@ -1,5 +1,5 @@
 // version and contentToCache are supplied by IDEController.py during deploy
-const cacheName = 'Fixit10ControlsStudent-2020-03-25 15:18:04.763482'; // unique value, generated each deploy
+const cacheName = 'Fixit10ControlsStudent-2020-03-25 15:49:01.468223'; // unique value, generated each deploy
 const contentToCache = [
   'index.html',
   'code.js',

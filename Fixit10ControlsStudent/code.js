@@ -82,13 +82,14 @@ ABfavExercises.onshow=function(){
 selExercises.onfocusout=function() {
      let exercisesChoice = (selExercises)
      let stringChoice = exercisesChoice.toString()
-     let splitString = stringChoice.split(" , ")
+     let splitString = stringChoice.split(",")
      let joinString = splitString.join(" and ")
      favExercises = joinString
+
 }
 
 btnSubmit.onclick=function(){
-     console.log(favExercises)
+     modOutput.toggle()
      if (favExercises == "situps and plank") {
           modOutput.toggle()
           modOutput.value = "You chose " + favExercises
