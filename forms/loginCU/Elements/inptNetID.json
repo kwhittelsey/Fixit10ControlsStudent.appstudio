@@ -32,7 +32,7 @@
   "id": "inptNetID",
   "inputType": "text",
   "inputmode": "",
-  "left": 16,
+  "left": "0",
   "leftText": "netID: ",
   "mAll": "",
   "mBottom": "",

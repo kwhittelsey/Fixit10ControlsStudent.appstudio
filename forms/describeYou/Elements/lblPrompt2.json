@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblPrompt2",
   "labelStyle": "text",
-  "left": 24,
+  "left": "0",
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 40,
+  "top": "80",
   "value": "Which of these best describes your personality type? ",
-  "width": 208
+  "width": "auto"
 }

@@ -14,9 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "favExercises",
+        "ABfavExercises",
         "Elements",
         "selExercises.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABfavExercises",
+        "Elements",
+        "lbnShortcut5.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABfavExercises",
+        "Elements",
+        "btnSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABfavExercises",
+        "Elements",
+        "modOutput.json"
       ]
     }
   ],
@@ -26,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "favExercises",
+  "id": "ABfavExercises",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -34,7 +61,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "favExercises.onshow()",
+  "onshow": "ABfavExercises.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

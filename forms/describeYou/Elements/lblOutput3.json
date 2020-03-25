@@ -1,6 +1,6 @@
 {
   "!type": "Label_bs4",
-  "appearance": "dark",
+  "appearance": "primary",
   "backgroundColor": "",
   "borderRadius": "0",
   "bottom": "auto",
@@ -15,9 +15,9 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": "auto",
+  "height": 62,
   "hidden": "",
-  "id": "lblPrompt",
+  "id": "lblOutput3",
   "labelStyle": "text",
   "left": "0",
   "mAll": "",
@@ -41,8 +41,8 @@
   "pTop": "",
   "right": "auto",
   "script": "",
-  "style": "color: \"#000000\";",
-  "top": 80,
-  "value": "Which of these desserts do you like the best? ",
-  "width": "auto"
+  "style": "",
+  "top": 368,
+  "value": "",
+  "width": "180"
 }

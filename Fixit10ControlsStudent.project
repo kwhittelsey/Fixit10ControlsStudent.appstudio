@@ -53,8 +53,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "favExercises",
-            "favExercises.json"
+            "ABfavExercises",
+            "ABfavExercises.json"
           ]
         },
         {
@@ -84,11 +84,11 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "loginCU",
+      "firstform": "ABfavExercises",
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",
-      "icon": "nsb/images/LauncherIcon57.png",
+      "icon": "nsb/images/512.png",
       "iconAndroid": "nsb/images/192.png",
       "id": "Project1",
       "jqWidgetsLicence": "",
